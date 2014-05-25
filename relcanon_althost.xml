@@ -4,7 +4,7 @@
 	<author>Dave Koopman</author>
 	<creationDate>2015-05-25</creationDate>
 	<copyright>Copyright (C) 2014 Dave Koopman. All rights reserved.</copyright>
-	<license>MIT License</license>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<authorEmail>dave@koopman.me</authorEmail>
 	<authorUrl>github.com/gddk/</authorUrl>
 	<version>0.1.4</version>
