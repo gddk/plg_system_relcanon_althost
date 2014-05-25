@@ -10,4 +10,4 @@ Sets the rel canonical link tag to another hostname. Useful for SEO to prevent d
 
 The most simple way is to Download Zip and then upload that to the Joomla Extension Manager under Upload Package File.  Then visit the Plugin Manager, find the "System - Rel Canonical Alt Host" plugin, click on it, set the Alt Host and consider the Use WP Search option.  Change status to Enabled and Save.
 
-Visit regular pages of your site, view source, and notice the updated <link href="http://bar.tld/" rel="canonical" /> links in the <head>.
+Visit regular pages of your site, view source, and notice the updated &lt;link href="http://bar.tld/" rel="canonical" /&gt; links in the &lt;head&gt;.
