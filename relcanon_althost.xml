@@ -8,7 +8,7 @@
 	<authorEmail>dave@koopman.me</authorEmail>
 	<authorUrl>github.com/gddk/</authorUrl>
 	<version>0.1.4</version>
-	<description>Sets the rel canonical meta tag to another hostname. Useful for SEO to prevent dup content penalty when content is identical to another URL with a different hostname.</description>
+	<description>Sets the rel canonical link tag to another hostname. Useful for SEO to prevent dup content penalty when content is identical to another URL with a different hostname.</description>
 	<files>
 		<filename plugin="relcanon_althost">relcanon_althost.php</filename>
 	</files>
